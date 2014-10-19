@@ -1,0 +1,8 @@
+/binutils-*.tar.gz
+/binutils-*/
+/gcc-*.tar.gz
+/gcc-*/
+/gdb-*.tar.gz
+/gdb-*/
+/newlib-*.tar.gz
+/newlib-*/
